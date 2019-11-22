@@ -12,7 +12,7 @@
         "php": ">=7.0",
         "doctrine/dbal": "^2.5",
         "illuminate/support": "^5.5",
-        "grafite/formmaker": "^1.1"
+        "danielmorgan/grafite-formmaker": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0",
@@ -40,6 +40,12 @@
             ]
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/danielmorgan/grafite-cms"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
