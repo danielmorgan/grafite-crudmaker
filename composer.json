@@ -1,5 +1,5 @@
 {
-    "name": "grafite/crudmaker",
+    "name": "danielmorgan/grafite-crudmaker",
     "description": "An incredibly powerful and some say magical CRUD maker for Laravel",
     "license": "MIT",
     "authors": [
