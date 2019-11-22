@@ -43,7 +43,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/danielmorgan/grafite-cms"
+            "url": "https://github.com/danielmorgan/grafite-formmaker"
         }
     ],
     "minimum-stability": "dev",
