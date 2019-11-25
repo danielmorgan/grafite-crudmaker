@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.0",
         "doctrine/dbal": "^2.5",
-        "illuminate/support": "^5.5",
+        "illuminate/support": "^6.5",
         "danielmorgan/grafite-formmaker": "dev-master"
     },
     "require-dev": {
